@@ -471,7 +471,7 @@ Sorularınız için:
 
 1. **Projeyi Fork Edin**
    ```bash
-   git clone https://github.com/ekayazilim/eka-lisans-sistemi.git
+   git clone https://github.com/ekayazilim/EKA-Yazilim-Lisans-Sistemi.git
    ```
 
 2. **Feature Branch Oluşturun**
