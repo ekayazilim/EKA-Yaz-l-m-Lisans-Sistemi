@@ -505,7 +505,7 @@ Sorularınız için:
 - **Website**: https://www.ekayazilim.com
 - **Dokümantasyon**: https://docs.ekayazilim.com
 - **GitHub Issues**: Proje sayfasında issue açabilirsiniz
-- **Video Eğitimler**: https://youtube.com/ekayazilim
+- **Video Eğitimler**: https://www.youtube.com/@ekayazilim & https://www.youtube.com/@ekasunucu
 
 ### 💬 Topluluk
 - **Discord**: EKA Yazılım Topluluğu
