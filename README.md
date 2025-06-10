@@ -510,7 +510,7 @@ Sorularınız için:
 ### 💬 Topluluk
 - **Discord**: EKA Yazılım Topluluğu
 - **Telegram**: @ekayazilim
-- **Forum**: https://forum.ekayazilim.com
+- **Eka Sunucu**: https://ekasunucu.com
 
 ## 📄 Lisans
 
