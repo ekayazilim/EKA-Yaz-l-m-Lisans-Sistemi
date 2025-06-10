@@ -542,7 +542,7 @@ Detaylar için `LICENSE` dosyasına bakın.
 *Profesyonel Yazılım Çözümleri*
 
 **🔗 Bağlantılar**  
-[Website](https://www.ekayazilim.com) • [GitHub](https://github.com/ekayazilim) • [LinkedIn](https://linkedin.com/company/ekayazilim)
+[Website](https://www.ekayazilim.com) • [GitHub](https://github.com/ekayazilim) • [LinkedIn](https://www.linkedin.com/in/eka-yaz%C4%B1l%C4%B1m-ve-bili%C5%9Fim-sistemleri-a3b350275)
 
 **📧 İletişim**  
 info@ekayazilim.com
