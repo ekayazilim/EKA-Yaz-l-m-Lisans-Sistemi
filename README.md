@@ -498,7 +498,7 @@ Sorularınız için:
 
 ### 🆘 Teknik Destek
 - **E-posta**: destek@ekayazilim.com
-- **Telefon**: +90 (XXX) XXX XX XX
+- **Telefon**: +90 (850) 307 34 58
 - **Çalışma Saatleri**: Pazartesi-Cuma 09:00-18:00
 
 ### 🌐 Online Kaynaklar
