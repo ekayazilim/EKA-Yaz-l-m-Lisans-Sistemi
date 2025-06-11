@@ -73,6 +73,21 @@ $adminMi = $kullaniciYoneticisi->adminMi($_SESSION['kullanici_id']);
                 Python Şifreleme
             </a>
             
+            <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'php-decoder.php' ? 'active' : ''; ?>" href="php-decoder.php">
+                <i class="fas fa-unlock"></i>
+                Kod Çözücü
+            </a>
+            
+            <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'python-decoder.php' ? 'active' : ''; ?>" href="python-decoder.php">
+                <i class="fab fa-python"></i>
+                Python Decoder
+            </a>
+            
+            <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'aspnet-decoder.php' ? 'active' : ''; ?>" href="aspnet-decoder.php">
+                <i class="fab fa-microsoft"></i>
+                ASP.NET Decoder
+            </a>
+            
             <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'sql.php' ? 'active' : ''; ?>" href="sql.php">
                 <i class="fas fa-database"></i>
                 SQL Yönetimi
